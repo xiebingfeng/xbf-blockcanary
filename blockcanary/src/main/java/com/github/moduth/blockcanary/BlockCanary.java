@@ -29,7 +29,7 @@ import static android.content.pm.PackageManager.*;
 
 public final class BlockCanary {
 
-    private static final String TAG = "BlockCanary";
+    private static final String TAG = "BlockCanary2";
 
     private static BlockCanary sInstance;
     private BlockCanaryInternals mBlockCanaryCore;
